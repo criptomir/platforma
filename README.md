@@ -1,2 +1,2 @@
 # platform
-https://legioaro.github.io/platform/
+https://criptomir.github.io/platforma/
